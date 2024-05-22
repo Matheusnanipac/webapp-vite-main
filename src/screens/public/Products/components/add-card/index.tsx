@@ -1,4 +1,4 @@
-import { Plus, Minus } from "lucide-react";
+/* import { Plus, Minus } from "lucide-react";
 import { useState } from "react";
 
 export default function AddCard() {
@@ -40,4 +40,4 @@ export default function AddCard() {
       </div>
     </div>
   );
-}
+} */
